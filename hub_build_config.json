@@ -1,0 +1,17 @@
+{
+	"targets":
+	[
+		{
+			"name": "hub1",
+			"dir": "hub1"
+		},
+		{
+			"name": "hub2",
+			"dir": "hub2"
+		},
+		{
+			"name": "hub3",
+			"dir": "hub3"
+		}
+	]
+}

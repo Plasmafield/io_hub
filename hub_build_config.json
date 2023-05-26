@@ -13,5 +13,6 @@
 			"name": "hub3",
 			"dir": "hub3"
 		}
-	]
+	],
+	"build_dir": "bins"
 }
